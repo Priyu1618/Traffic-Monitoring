@@ -1,0 +1,2123 @@
+No.     Time           Source                Destination           Protocol Length Info
+    138 38.072966      192.168.227.172       192.168.227.131       TCP      66     50975 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 138: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50975, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    139 38.073204      192.168.227.172       192.168.227.131       TCP      66     50976 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 139: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50976, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    140 38.073386      192.168.227.172       192.168.227.131       TCP      66     50977 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 140: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50977, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    141 38.078874      192.168.227.131       192.168.227.172       TCP      66     53 → 50975 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 141: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50975, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    142 38.078874      192.168.227.131       192.168.227.172       TCP      66     53 → 50976 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 142: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50976, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    143 38.078874      192.168.227.131       192.168.227.172       TCP      66     53 → 50977 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 143: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50977, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    144 38.079025      192.168.227.172       192.168.227.131       TCP      54     50975 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 144: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50975, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    145 38.079060      192.168.227.172       192.168.227.131       TCP      54     50976 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 145: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50976, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    146 38.079084      192.168.227.172       192.168.227.131       TCP      54     50977 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 146: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50977, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    147 38.079192      192.168.227.172       192.168.227.131       TCP      56     50977 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 148]
+
+Frame 147: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50977, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+    148 38.079229      192.168.227.172       192.168.227.131       DNS      87     Standard query 0xd22e HTTPS www.youtube.com
+
+Frame 148: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50977, Dst Port: 53, Seq: 3, Ack: 1, Len: 33
+[2 Reassembled TCP Segments (35 bytes): #147(2), #148(33)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    149 38.079302      192.168.227.172       192.168.227.131       TCP      56     50976 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 150]
+
+Frame 149: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50976, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+    150 38.079341      192.168.227.172       192.168.227.131       DNS      87     Standard query 0x867e A www.youtube.com
+
+Frame 150: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50976, Dst Port: 53, Seq: 3, Ack: 1, Len: 33
+[2 Reassembled TCP Segments (35 bytes): #149(2), #150(33)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    151 38.079404      192.168.227.172       192.168.227.131       TCP      56     50975 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 152]
+
+Frame 151: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50975, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+    152 38.079441      192.168.227.172       192.168.227.131       DNS      87     Standard query 0x17ed AAAA www.youtube.com
+
+Frame 152: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50975, Dst Port: 53, Seq: 3, Ack: 1, Len: 33
+[2 Reassembled TCP Segments (35 bytes): #151(2), #152(33)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    153 38.084756      192.168.227.131       192.168.227.172       TCP      54     53 → 50977 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 153: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50977, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    154 38.084756      192.168.227.131       192.168.227.172       TCP      54     53 → 50977 [ACK] Seq=1 Ack=36 Win=65536 Len=0
+
+Frame 154: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50977, Seq: 1, Ack: 36, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    155 38.084756      192.168.227.131       192.168.227.172       TCP      54     53 → 50976 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 155: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50976, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    156 38.084756      192.168.227.131       192.168.227.172       TCP      54     53 → 50976 [ACK] Seq=1 Ack=36 Win=65536 Len=0
+
+Frame 156: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50976, Seq: 1, Ack: 36, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    157 38.084756      192.168.227.131       192.168.227.172       TCP      54     53 → 50975 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 157: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50975, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    158 38.084756      192.168.227.131       192.168.227.172       TCP      54     53 → 50975 [ACK] Seq=1 Ack=36 Win=65536 Len=0
+
+Frame 158: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50975, Seq: 1, Ack: 36, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    159 38.139764      192.168.227.131       192.168.227.172       TCP      55     53 → 50975 [PSH, ACK] Seq=1 Ack=36 Win=65536 Len=1 [TCP PDU reassembled in 163]
+
+Frame 159: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50975, Seq: 1, Ack: 36, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+    160 38.144858      192.168.227.131       192.168.227.172       TCP      55     53 → 50977 [PSH, ACK] Seq=1 Ack=36 Win=65536 Len=1 [TCP PDU reassembled in 168]
+
+Frame 160: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50977, Seq: 1, Ack: 36, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+    161 38.175454      192.168.227.131       192.168.227.172       TCP      55     53 → 50976 [PSH, ACK] Seq=1 Ack=36 Win=65536 Len=1 [TCP PDU reassembled in 174]
+
+Frame 161: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50976, Seq: 1, Ack: 36, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+    162 38.180706      192.168.227.172       192.168.227.131       TCP      54     50975 → 53 [ACK] Seq=36 Ack=2 Win=65280 Len=0
+
+Frame 162: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50975, Dst Port: 53, Seq: 36, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    163 38.187185      192.168.227.131       192.168.227.172       DNS      234    Standard query response 0x17ed AAAA www.youtube.com CNAME youtube-ui.l.google.com AAAA 2404:6800:4009:80d::200e AAAA 2404:6800:4009:807::200e AAAA 2404:6800:4009:81e::200e AAAA 2404:6800:4009:80c::200e
+
+Frame 163: 234 bytes on wire (1872 bits), 234 bytes captured (1872 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50975, Seq: 2, Ack: 36, Len: 180
+[2 Reassembled TCP Segments (181 bytes): #159(1), #163(180)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    164 38.187560      192.168.227.172       192.168.227.131       TCP      54     50975 → 53 [FIN, ACK] Seq=36 Ack=182 Win=65280 Len=0
+
+Frame 164: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50975, Dst Port: 53, Seq: 36, Ack: 182, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    165 38.194520      192.168.227.131       192.168.227.172       TCP      54     53 → 50975 [FIN, ACK] Seq=182 Ack=37 Win=65536 Len=0
+
+Frame 165: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50975, Seq: 182, Ack: 37, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    166 38.194620      192.168.227.172       192.168.227.131       TCP      54     50975 → 53 [ACK] Seq=37 Ack=183 Win=65280 Len=0
+
+Frame 166: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50975, Dst Port: 53, Seq: 37, Ack: 183, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    167 38.196213      192.168.227.172       192.168.227.131       TCP      54     50977 → 53 [ACK] Seq=36 Ack=2 Win=65280 Len=0
+
+Frame 167: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50977, Dst Port: 53, Seq: 36, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    168 38.200445      192.168.227.131       192.168.227.172       DNS      137    Standard query response 0xd22e HTTPS www.youtube.com CNAME youtube-ui.l.google.com HTTPS
+
+Frame 168: 137 bytes on wire (1096 bits), 137 bytes captured (1096 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50977, Seq: 2, Ack: 36, Len: 83
+[2 Reassembled TCP Segments (84 bytes): #160(1), #168(83)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    169 38.200873      192.168.227.172       192.168.227.131       TCP      54     50977 → 53 [FIN, ACK] Seq=36 Ack=85 Win=65280 Len=0
+
+Frame 169: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50977, Dst Port: 53, Seq: 36, Ack: 85, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    170 38.205987      192.168.227.131       192.168.227.172       TCP      54     53 → 50977 [FIN, ACK] Seq=85 Ack=37 Win=65536 Len=0
+
+Frame 170: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50977, Seq: 85, Ack: 37, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    171 38.206073      192.168.227.172       192.168.227.131       TCP      54     50977 → 53 [ACK] Seq=37 Ack=86 Win=65280 Len=0
+
+Frame 171: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50977, Dst Port: 53, Seq: 37, Ack: 86, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    173 38.228118      192.168.227.172       192.168.227.131       TCP      54     50976 → 53 [ACK] Seq=36 Ack=2 Win=65280 Len=0
+
+Frame 173: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50976, Dst Port: 53, Seq: 36, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    174 38.234244      192.168.227.131       192.168.227.172       DNS      378    Standard query response 0x867e A www.youtube.com CNAME youtube-ui.l.google.com A 142.250.206.110 A 142.250.76.78 A 142.251.43.174 A 142.251.43.110 A 142.250.67.78 A 172.217.166.14 A 172.217.167.206 A 172.217.27.174 A 172.217.167.238 A 216.58.200.206 A 142.250.77.206 A 142.250.77.238 A 142.250.182.174 A 142.250.192.174 A 142.250.192.206 A 142.250.193.78
+
+Frame 174: 378 bytes on wire (3024 bits), 378 bytes captured (3024 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50976, Seq: 2, Ack: 36, Len: 324
+[2 Reassembled TCP Segments (325 bytes): #161(1), #174(324)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    175 38.234713      192.168.227.172       192.168.227.131       TCP      54     50976 → 53 [FIN, ACK] Seq=36 Ack=326 Win=65024 Len=0
+
+Frame 175: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50976, Dst Port: 53, Seq: 36, Ack: 326, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    180 38.239667      192.168.227.131       192.168.227.172       TCP      54     53 → 50976 [FIN, ACK] Seq=326 Ack=37 Win=65536 Len=0
+
+Frame 180: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50976, Seq: 326, Ack: 37, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    181 38.239704      192.168.227.172       192.168.227.131       TCP      54     50976 → 53 [ACK] Seq=37 Ack=327 Win=65024 Len=0
+
+Frame 181: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50976, Dst Port: 53, Seq: 37, Ack: 327, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    266 54.297492      192.168.227.172       192.168.227.131       DNS      79     Standard query 0xce74 A graph.microsoft.com
+
+Frame 266: 79 bytes on wire (632 bits), 79 bytes captured (632 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+User Datagram Protocol, Src Port: 62105, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    267 54.297884      192.168.227.172       192.168.227.131       DNS      79     Standard query 0x9c53 AAAA graph.microsoft.com
+
+Frame 267: 79 bytes on wire (632 bits), 79 bytes captured (632 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+User Datagram Protocol, Src Port: 64789, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    270 54.349501      192.168.227.131       192.168.227.172       DNS      243    Standard query response 0x9c53 AAAA graph.microsoft.com CNAME ags.privatelink.msidentity.com CNAME www.tm.prd.ags.akadns.net AAAA 2603:1046:2000:90::80 AAAA 2603:1047:1:98::80 AAAA 2603:1047:1:88::80
+
+Frame 270: 243 bytes on wire (1944 bits), 243 bytes captured (1944 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+User Datagram Protocol, Src Port: 53, Dst Port: 64789
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    273 54.506519      192.168.227.131       192.168.227.172       DNS      207    Standard query response 0xce74 A graph.microsoft.com CNAME ags.privatelink.msidentity.com CNAME www.tm.prd.ags.akadns.net A 20.190.175.152 A 20.190.175.24 A 20.190.175.88
+
+Frame 273: 207 bytes on wire (1656 bits), 207 bytes captured (1656 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+User Datagram Protocol, Src Port: 53, Dst Port: 62105
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    373 71.017832      192.168.227.172       192.168.227.131       DNS      72     Standard query 0x29f8 AAAA nephobox.com
+
+Frame 373: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+User Datagram Protocol, Src Port: 54742, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    374 71.040136      192.168.227.131       192.168.227.172       DNS      100    Standard query response 0x29f8 AAAA nephobox.com AAAA 64:ff9b::6262:e1c8
+
+Frame 374: 100 bytes on wire (800 bits), 100 bytes captured (800 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+User Datagram Protocol, Src Port: 53, Dst Port: 54742
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    414 82.883129      192.168.227.172       192.168.227.131       TCP      66     50986 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 414: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50986, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    415 82.883398      192.168.227.172       192.168.227.131       TCP      66     50987 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 415: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50987, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    416 82.883607      192.168.227.172       192.168.227.131       TCP      66     50988 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 416: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50988, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    420 82.910989      192.168.227.131       192.168.227.172       TCP      66     53 → 50986 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 420: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50986, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    421 82.910989      192.168.227.131       192.168.227.172       TCP      66     53 → 50987 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 421: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50987, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    422 82.910989      192.168.227.131       192.168.227.172       TCP      66     53 → 50988 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 422: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50988, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    423 82.911184      192.168.227.172       192.168.227.131       TCP      54     50986 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 423: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50986, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    424 82.911232      192.168.227.172       192.168.227.131       TCP      54     50987 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 424: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50987, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    425 82.911250      192.168.227.172       192.168.227.131       TCP      54     50988 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 425: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50988, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    426 82.911283      192.168.227.172       192.168.227.131       TCP      56     50987 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 427]
+
+Frame 426: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50987, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+    427 82.911320      192.168.227.172       192.168.227.131       DNS      108    Standard query 0xe5d0 A functional.events.data.microsoft.com
+
+Frame 427: 108 bytes on wire (864 bits), 108 bytes captured (864 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50987, Dst Port: 53, Seq: 3, Ack: 1, Len: 54
+[2 Reassembled TCP Segments (56 bytes): #426(2), #427(54)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    428 82.911405      192.168.227.172       192.168.227.131       TCP      56     50986 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 429]
+
+Frame 428: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50986, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+    429 82.911440      192.168.227.172       192.168.227.131       DNS      108    Standard query 0xcafb AAAA functional.events.data.microsoft.com
+
+Frame 429: 108 bytes on wire (864 bits), 108 bytes captured (864 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50986, Dst Port: 53, Seq: 3, Ack: 1, Len: 54
+[2 Reassembled TCP Segments (56 bytes): #428(2), #429(54)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    430 82.911504      192.168.227.172       192.168.227.131       TCP      56     50988 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 431]
+
+Frame 430: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50988, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+    431 82.911533      192.168.227.172       192.168.227.131       DNS      108    Standard query 0x584c HTTPS functional.events.data.microsoft.com
+
+Frame 431: 108 bytes on wire (864 bits), 108 bytes captured (864 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50988, Dst Port: 53, Seq: 3, Ack: 1, Len: 54
+[2 Reassembled TCP Segments (56 bytes): #430(2), #431(54)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    432 82.915846      192.168.227.131       192.168.227.172       TCP      54     53 → 50987 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 432: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50987, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    433 82.915846      192.168.227.131       192.168.227.172       TCP      54     53 → 50987 [ACK] Seq=1 Ack=57 Win=65536 Len=0
+
+Frame 433: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50987, Seq: 1, Ack: 57, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    434 82.915846      192.168.227.131       192.168.227.172       TCP      54     53 → 50986 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 434: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50986, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    435 82.915846      192.168.227.131       192.168.227.172       TCP      54     53 → 50986 [ACK] Seq=1 Ack=57 Win=65536 Len=0
+
+Frame 435: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50986, Seq: 1, Ack: 57, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    436 82.915846      192.168.227.131       192.168.227.172       TCP      54     53 → 50988 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 436: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50988, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    437 82.915846      192.168.227.131       192.168.227.172       TCP      54     53 → 50988 [ACK] Seq=1 Ack=57 Win=65536 Len=0
+
+Frame 437: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50988, Seq: 1, Ack: 57, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    438 82.988564      192.168.227.131       192.168.227.172       TCP      55     53 → 50986 [PSH, ACK] Seq=1 Ack=57 Win=65536 Len=1 [TCP PDU reassembled in 444]
+
+Frame 438: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50986, Seq: 1, Ack: 57, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+    439 82.992982      192.168.227.131       192.168.227.172       TCP      55     53 → 50988 [PSH, ACK] Seq=1 Ack=57 Win=65536 Len=1 [TCP PDU reassembled in 445]
+
+Frame 439: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50988, Seq: 1, Ack: 57, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+    440 82.992982      192.168.227.131       192.168.227.172       TCP      55     53 → 50987 [PSH, ACK] Seq=1 Ack=57 Win=65536 Len=1 [TCP PDU reassembled in 446]
+
+Frame 440: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50987, Seq: 1, Ack: 57, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+    441 83.035992      192.168.227.172       192.168.227.131       TCP      54     50986 → 53 [ACK] Seq=57 Ack=2 Win=65280 Len=0
+
+Frame 441: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50986, Dst Port: 53, Seq: 57, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    442 83.036066      192.168.227.172       192.168.227.131       TCP      54     50988 → 53 [ACK] Seq=57 Ack=2 Win=65280 Len=0
+
+Frame 442: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50988, Dst Port: 53, Seq: 57, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    443 83.036094      192.168.227.172       192.168.227.131       TCP      54     50987 → 53 [ACK] Seq=57 Ack=2 Win=65280 Len=0
+
+Frame 443: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50987, Dst Port: 53, Seq: 57, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    444 83.041850      192.168.227.131       192.168.227.172       DNS      251    Standard query response 0xcafb AAAA functional.events.data.microsoft.com CNAME global.asimov.events.data.trafficmanager.net CNAME onedscolprdcus01.centralus.cloudapp.azure.com AAAA 64:ff9b::34b6:8d3f
+
+Frame 444: 251 bytes on wire (2008 bits), 251 bytes captured (2008 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50986, Seq: 2, Ack: 57, Len: 197
+[2 Reassembled TCP Segments (198 bytes): #438(1), #444(197)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    445 83.041850      192.168.227.131       192.168.227.172       DNS      284    Standard query response 0x584c HTTPS functional.events.data.microsoft.com CNAME global.asimov.events.data.trafficmanager.net CNAME onedscolprdcus02.centralus.cloudapp.azure.com SOA ns1-201.azure-dns.com
+
+Frame 445: 284 bytes on wire (2272 bits), 284 bytes captured (2272 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50988, Seq: 2, Ack: 57, Len: 230
+[2 Reassembled TCP Segments (231 bytes): #439(1), #445(230)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    446 83.041850      192.168.227.131       192.168.227.172       DNS      239    Standard query response 0xe5d0 A functional.events.data.microsoft.com CNAME global.asimov.events.data.trafficmanager.net CNAME onedscolprdcus02.centralus.cloudapp.azure.com A 20.44.10.122
+
+Frame 446: 239 bytes on wire (1912 bits), 239 bytes captured (1912 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50987, Seq: 2, Ack: 57, Len: 185
+[2 Reassembled TCP Segments (186 bytes): #440(1), #446(185)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    447 83.042274      192.168.227.172       192.168.227.131       TCP      54     50987 → 53 [FIN, ACK] Seq=57 Ack=187 Win=65280 Len=0
+
+Frame 447: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50987, Dst Port: 53, Seq: 57, Ack: 187, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    448 83.042438      192.168.227.172       192.168.227.131       TCP      54     50988 → 53 [FIN, ACK] Seq=57 Ack=232 Win=65280 Len=0
+
+Frame 448: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50988, Dst Port: 53, Seq: 57, Ack: 232, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    449 83.042582      192.168.227.172       192.168.227.131       TCP      54     50986 → 53 [FIN, ACK] Seq=57 Ack=199 Win=65280 Len=0
+
+Frame 449: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50986, Dst Port: 53, Seq: 57, Ack: 199, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    450 83.047351      192.168.227.131       192.168.227.172       TCP      54     53 → 50987 [FIN, ACK] Seq=187 Ack=58 Win=65536 Len=0
+
+Frame 450: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50987, Seq: 187, Ack: 58, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    451 83.047351      192.168.227.131       192.168.227.172       TCP      54     53 → 50988 [FIN, ACK] Seq=232 Ack=58 Win=65536 Len=0
+
+Frame 451: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50988, Seq: 232, Ack: 58, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    452 83.047351      192.168.227.131       192.168.227.172       TCP      54     53 → 50986 [FIN, ACK] Seq=199 Ack=58 Win=65536 Len=0
+
+Frame 452: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50986, Seq: 199, Ack: 58, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    453 83.047399      192.168.227.172       192.168.227.131       TCP      54     50987 → 53 [ACK] Seq=58 Ack=188 Win=65280 Len=0
+
+Frame 453: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50987, Dst Port: 53, Seq: 58, Ack: 188, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    454 83.047456      192.168.227.172       192.168.227.131       TCP      54     50988 → 53 [ACK] Seq=58 Ack=233 Win=65280 Len=0
+
+Frame 454: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50988, Dst Port: 53, Seq: 58, Ack: 233, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    455 83.047495      192.168.227.172       192.168.227.131       TCP      54     50986 → 53 [ACK] Seq=58 Ack=200 Win=65280 Len=0
+
+Frame 455: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50986, Dst Port: 53, Seq: 58, Ack: 200, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    520 114.259550     192.168.227.172       192.168.227.131       DNS      77     Standard query 0xe311 A www.wikipidia.com
+
+Frame 520: 77 bytes on wire (616 bits), 77 bytes captured (616 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+User Datagram Protocol, Src Port: 54742, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    521 114.260081     192.168.227.172       192.168.227.131       DNS      77     Standard query 0x012a AAAA www.wikipidia.com
+
+Frame 521: 77 bytes on wire (616 bits), 77 bytes captured (616 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+User Datagram Protocol, Src Port: 54134, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    525 114.901071     192.168.227.131       192.168.227.172       DNS      131    Standard query response 0xe311 A www.wikipidia.com CNAME ncredir-lb.wikimedia.org A 103.102.166.226
+
+Frame 525: 131 bytes on wire (1048 bits), 131 bytes captured (1048 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+User Datagram Protocol, Src Port: 53, Dst Port: 54742
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    529 115.072654     192.168.227.131       192.168.227.172       DNS      143    Standard query response 0x012a AAAA www.wikipidia.com CNAME ncredir-lb.wikimedia.org AAAA 2001:df2:e500:ed1a::3
+
+Frame 529: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+User Datagram Protocol, Src Port: 53, Dst Port: 54134
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    593 141.808702     192.168.227.172       192.168.227.131       DNS      91     Standard query 0x999b A my.microsoftpersonalcontent.com
+
+Frame 593: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+User Datagram Protocol, Src Port: 54985, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    594 141.809118     192.168.227.172       192.168.227.131       DNS      91     Standard query 0xdc1d AAAA my.microsoftpersonalcontent.com
+
+Frame 594: 91 bytes on wire (728 bits), 91 bytes captured (728 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+User Datagram Protocol, Src Port: 58575, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    597 141.868584     192.168.227.131       192.168.227.172       DNS      466    Standard query response 0x999b A my.microsoftpersonalcontent.com CNAME lists-e.tm-rt.sharepoint.com CNAME 193652-ipv4mte.gr.global.aa-rt.sharepoint.com CNAME 193652-ipv4mte.farm.dprodmgd105.aa-rt.sharepoint.com CNAME 193652-ipv4mteg.farm.dprodmgd105.sharepointonline.com.akadns.net CNAME 193652-ipv4.farm.dprodmgd105.aa-rt.sharepoint.com.dual-spov-0006.spov-msedge.net CNAME dual-spov-0006.spov-dc-msedge.net A 150.171.43.11 A 150.171.41.11
+
+Frame 597: 466 bytes on wire (3728 bits), 466 bytes captured (3728 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+User Datagram Protocol, Src Port: 53, Dst Port: 54985
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    603 141.927461     192.168.227.131       192.168.227.172       DNS      490    Standard query response 0xdc1d AAAA my.microsoftpersonalcontent.com CNAME lists-e.tm-rt.sharepoint.com CNAME 193652-ipv4mte.gr.global.aa-rt.sharepoint.com CNAME 193652-ipv4mte.farm.dprodmgd105.aa-rt.sharepoint.com CNAME 193652-ipv4mteg.farm.dprodmgd105.sharepointonline.com.akadns.net CNAME 193652-ipv4.farm.dprodmgd105.aa-rt.sharepoint.com.dual-spov-0006.spov-msedge.net CNAME dual-spov-0006.spov-dc-msedge.net AAAA 64:ff9b::96ab:290b AAAA 64:ff9b::96ab:2b0b
+
+Frame 603: 490 bytes on wire (3920 bits), 490 bytes captured (3920 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+User Datagram Protocol, Src Port: 53, Dst Port: 58575
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    658 158.292431     192.168.227.172       192.168.227.131       TCP      66     50997 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 658: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50997, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    659 158.292713     192.168.227.172       192.168.227.131       TCP      66     50998 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 659: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50998, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    660 158.292920     192.168.227.172       192.168.227.131       TCP      66     50999 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 660: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50999, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    661 158.313324     192.168.227.131       192.168.227.172       TCP      66     53 → 50997 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 661: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50997, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    662 158.313324     192.168.227.131       192.168.227.172       TCP      66     53 → 50998 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 662: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50998, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    663 158.313324     192.168.227.131       192.168.227.172       TCP      66     53 → 50999 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 663: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50999, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    664 158.313450     192.168.227.172       192.168.227.131       TCP      54     50997 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 664: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50997, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    665 158.313483     192.168.227.172       192.168.227.131       TCP      54     50998 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 665: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50998, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    666 158.313501     192.168.227.172       192.168.227.131       TCP      54     50999 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 666: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50999, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    667 158.313886     192.168.227.172       192.168.227.131       TCP      56     50999 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 668]
+
+Frame 667: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50999, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+    668 158.313931     192.168.227.172       192.168.227.131       DNS      87     Standard query 0x3f3a HTTPS play.google.com
+
+Frame 668: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50999, Dst Port: 53, Seq: 3, Ack: 1, Len: 33
+[2 Reassembled TCP Segments (35 bytes): #667(2), #668(33)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    669 158.314016     192.168.227.172       192.168.227.131       TCP      56     50998 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 670]
+
+Frame 669: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50998, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+    670 158.314062     192.168.227.172       192.168.227.131       DNS      87     Standard query 0xe815 A play.google.com
+
+Frame 670: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50998, Dst Port: 53, Seq: 3, Ack: 1, Len: 33
+[2 Reassembled TCP Segments (35 bytes): #669(2), #670(33)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    671 158.314135     192.168.227.172       192.168.227.131       TCP      56     50997 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 672]
+
+Frame 671: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50997, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+    672 158.314169     192.168.227.172       192.168.227.131       DNS      87     Standard query 0x965a AAAA play.google.com
+
+Frame 672: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50997, Dst Port: 53, Seq: 3, Ack: 1, Len: 33
+[2 Reassembled TCP Segments (35 bytes): #671(2), #672(33)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    673 158.322553     192.168.227.131       192.168.227.172       TCP      54     53 → 50999 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 673: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50999, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    674 158.322553     192.168.227.131       192.168.227.172       TCP      54     53 → 50999 [ACK] Seq=1 Ack=36 Win=65536 Len=0
+
+Frame 674: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50999, Seq: 1, Ack: 36, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    675 158.322553     192.168.227.131       192.168.227.172       TCP      54     53 → 50998 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 675: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50998, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    676 158.322553     192.168.227.131       192.168.227.172       TCP      54     53 → 50998 [ACK] Seq=1 Ack=36 Win=65536 Len=0
+
+Frame 676: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50998, Seq: 1, Ack: 36, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    677 158.322553     192.168.227.131       192.168.227.172       TCP      54     53 → 50997 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 677: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50997, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    678 158.322553     192.168.227.131       192.168.227.172       TCP      54     53 → 50997 [ACK] Seq=1 Ack=36 Win=65536 Len=0
+
+Frame 678: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50997, Seq: 1, Ack: 36, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    679 158.372481     192.168.227.131       192.168.227.172       TCP      55     53 → 50997 [PSH, ACK] Seq=1 Ack=36 Win=65536 Len=1 [TCP PDU reassembled in 684]
+
+Frame 679: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50997, Seq: 1, Ack: 36, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+    680 158.377284     192.168.227.131       192.168.227.172       TCP      55     53 → 50999 [PSH, ACK] Seq=1 Ack=36 Win=65536 Len=1 [TCP PDU reassembled in 685]
+
+Frame 680: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50999, Seq: 1, Ack: 36, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+    681 158.388023     192.168.227.131       192.168.227.172       TCP      55     53 → 50998 [PSH, ACK] Seq=1 Ack=36 Win=65536 Len=1 [TCP PDU reassembled in 693]
+
+Frame 681: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50998, Seq: 1, Ack: 36, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+    682 158.424519     192.168.227.172       192.168.227.131       TCP      54     50997 → 53 [ACK] Seq=36 Ack=2 Win=65280 Len=0
+
+Frame 682: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50997, Dst Port: 53, Seq: 36, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    683 158.424573     192.168.227.172       192.168.227.131       TCP      54     50999 → 53 [ACK] Seq=36 Ack=2 Win=65280 Len=0
+
+Frame 683: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50999, Dst Port: 53, Seq: 36, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    684 158.428976     192.168.227.131       192.168.227.172       DNS      116    Standard query response 0x965a AAAA play.google.com AAAA 2404:6800:4002:826::200e
+
+Frame 684: 116 bytes on wire (928 bits), 116 bytes captured (928 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50997, Seq: 2, Ack: 36, Len: 62
+[2 Reassembled TCP Segments (63 bytes): #679(1), #684(62)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    685 158.428976     192.168.227.131       192.168.227.172       DNS      138    Standard query response 0x3f3a HTTPS play.google.com SOA ns1.google.com
+
+Frame 685: 138 bytes on wire (1104 bits), 138 bytes captured (1104 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50999, Seq: 2, Ack: 36, Len: 84
+[2 Reassembled TCP Segments (85 bytes): #680(1), #685(84)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    686 158.429264     192.168.227.172       192.168.227.131       TCP      54     50999 → 53 [FIN, ACK] Seq=36 Ack=86 Win=65280 Len=0
+
+Frame 686: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50999, Dst Port: 53, Seq: 36, Ack: 86, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    687 158.429400     192.168.227.172       192.168.227.131       TCP      54     50997 → 53 [FIN, ACK] Seq=36 Ack=64 Win=65280 Len=0
+
+Frame 687: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50997, Dst Port: 53, Seq: 36, Ack: 64, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    688 158.433852     192.168.227.131       192.168.227.172       TCP      54     53 → 50999 [FIN, ACK] Seq=86 Ack=37 Win=65536 Len=0
+
+Frame 688: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50999, Seq: 86, Ack: 37, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    689 158.433852     192.168.227.131       192.168.227.172       TCP      54     53 → 50997 [FIN, ACK] Seq=64 Ack=37 Win=65536 Len=0
+
+Frame 689: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50997, Seq: 64, Ack: 37, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    690 158.433890     192.168.227.172       192.168.227.131       TCP      54     50999 → 53 [ACK] Seq=37 Ack=87 Win=65280 Len=0
+
+Frame 690: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50999, Dst Port: 53, Seq: 37, Ack: 87, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    691 158.433929     192.168.227.172       192.168.227.131       TCP      54     50997 → 53 [ACK] Seq=37 Ack=65 Win=65280 Len=0
+
+Frame 691: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50997, Dst Port: 53, Seq: 37, Ack: 65, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    692 158.439163     192.168.227.172       192.168.227.131       TCP      54     50998 → 53 [ACK] Seq=36 Ack=2 Win=65280 Len=0
+
+Frame 692: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50998, Dst Port: 53, Seq: 36, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    693 158.443778     192.168.227.131       192.168.227.172       DNS      104    Standard query response 0xe815 A play.google.com A 142.250.67.206
+
+Frame 693: 104 bytes on wire (832 bits), 104 bytes captured (832 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50998, Seq: 2, Ack: 36, Len: 50
+[2 Reassembled TCP Segments (51 bytes): #681(1), #693(50)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    694 158.444013     192.168.227.172       192.168.227.131       TCP      54     50998 → 53 [FIN, ACK] Seq=36 Ack=52 Win=65280 Len=0
+
+Frame 694: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50998, Dst Port: 53, Seq: 36, Ack: 52, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    698 158.451521     192.168.227.131       192.168.227.172       TCP      54     53 → 50998 [FIN, ACK] Seq=52 Ack=37 Win=65536 Len=0
+
+Frame 698: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 50998, Seq: 52, Ack: 37, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    699 158.451560     192.168.227.172       192.168.227.131       TCP      54     50998 → 53 [ACK] Seq=37 Ack=53 Win=65280 Len=0
+
+Frame 699: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 50998, Dst Port: 53, Seq: 37, Ack: 53, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    771 190.669693     192.168.227.172       192.168.227.131       TCP      66     51003 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 771: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51003, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    772 190.669950     192.168.227.172       192.168.227.131       TCP      66     51004 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 772: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51004, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    773 190.670136     192.168.227.172       192.168.227.131       TCP      66     51005 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 773: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51005, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    777 190.694732     192.168.227.131       192.168.227.172       TCP      66     53 → 51003 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 777: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51003, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    778 190.694732     192.168.227.131       192.168.227.172       TCP      66     53 → 51004 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 778: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51004, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    779 190.694732     192.168.227.131       192.168.227.172       TCP      66     53 → 51005 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 779: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51005, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    780 190.694878     192.168.227.172       192.168.227.131       TCP      54     51003 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 780: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51003, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    781 190.694914     192.168.227.172       192.168.227.131       TCP      54     51004 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 781: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51004, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    782 190.694928     192.168.227.172       192.168.227.131       TCP      54     51005 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 782: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51005, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    783 190.695281     192.168.227.172       192.168.227.131       TCP      56     51005 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 784]
+
+Frame 783: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51005, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+    784 190.695329     192.168.227.172       192.168.227.131       DNS      108    Standard query 0x3bfe HTTPS functional.events.data.microsoft.com
+
+Frame 784: 108 bytes on wire (864 bits), 108 bytes captured (864 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51005, Dst Port: 53, Seq: 3, Ack: 1, Len: 54
+[2 Reassembled TCP Segments (56 bytes): #783(2), #784(54)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    785 190.695407     192.168.227.172       192.168.227.131       TCP      56     51004 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 786]
+
+Frame 785: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51004, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+    786 190.695432     192.168.227.172       192.168.227.131       DNS      108    Standard query 0x3544 A functional.events.data.microsoft.com
+
+Frame 786: 108 bytes on wire (864 bits), 108 bytes captured (864 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51004, Dst Port: 53, Seq: 3, Ack: 1, Len: 54
+[2 Reassembled TCP Segments (56 bytes): #785(2), #786(54)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    787 190.695518     192.168.227.172       192.168.227.131       TCP      56     51003 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 788]
+
+Frame 787: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51003, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+    788 190.695550     192.168.227.172       192.168.227.131       DNS      108    Standard query 0x9e0d AAAA functional.events.data.microsoft.com
+
+Frame 788: 108 bytes on wire (864 bits), 108 bytes captured (864 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51003, Dst Port: 53, Seq: 3, Ack: 1, Len: 54
+[2 Reassembled TCP Segments (56 bytes): #787(2), #788(54)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    789 190.699126     192.168.227.131       192.168.227.172       TCP      54     53 → 51005 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 789: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51005, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    790 190.699126     192.168.227.131       192.168.227.172       TCP      54     53 → 51005 [ACK] Seq=1 Ack=57 Win=65536 Len=0
+
+Frame 790: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51005, Seq: 1, Ack: 57, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    791 190.699126     192.168.227.131       192.168.227.172       TCP      54     53 → 51004 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 791: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51004, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    792 190.699126     192.168.227.131       192.168.227.172       TCP      54     53 → 51004 [ACK] Seq=1 Ack=57 Win=65536 Len=0
+
+Frame 792: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51004, Seq: 1, Ack: 57, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    793 190.699126     192.168.227.131       192.168.227.172       TCP      54     53 → 51003 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 793: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51003, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    794 190.699126     192.168.227.131       192.168.227.172       TCP      54     53 → 51003 [ACK] Seq=1 Ack=57 Win=65536 Len=0
+
+Frame 794: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51003, Seq: 1, Ack: 57, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    796 190.777446     192.168.227.131       192.168.227.172       TCP      55     53 → 51004 [PSH, ACK] Seq=1 Ack=57 Win=65536 Len=1 [TCP PDU reassembled in 801]
+
+Frame 796: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51004, Seq: 1, Ack: 57, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+    797 190.777446     192.168.227.131       192.168.227.172       TCP      55     53 → 51005 [PSH, ACK] Seq=1 Ack=57 Win=65536 Len=1 [TCP PDU reassembled in 802]
+
+Frame 797: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51005, Seq: 1, Ack: 57, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+    798 190.802393     192.168.227.131       192.168.227.172       TCP      55     53 → 51003 [PSH, ACK] Seq=1 Ack=57 Win=65536 Len=1 [TCP PDU reassembled in 810]
+
+Frame 798: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51003, Seq: 1, Ack: 57, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+    799 190.820371     192.168.227.172       192.168.227.131       TCP      54     51004 → 53 [ACK] Seq=57 Ack=2 Win=65280 Len=0
+
+Frame 799: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51004, Dst Port: 53, Seq: 57, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    800 190.820421     192.168.227.172       192.168.227.131       TCP      54     51005 → 53 [ACK] Seq=57 Ack=2 Win=65280 Len=0
+
+Frame 800: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51005, Dst Port: 53, Seq: 57, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    801 190.824177     192.168.227.131       192.168.227.172       DNS      239    Standard query response 0x3544 A functional.events.data.microsoft.com CNAME global.asimov.events.data.trafficmanager.net CNAME onedscolprdcus09.centralus.cloudapp.azure.com A 13.89.179.9
+
+Frame 801: 239 bytes on wire (1912 bits), 239 bytes captured (1912 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51004, Seq: 2, Ack: 57, Len: 185
+[2 Reassembled TCP Segments (186 bytes): #796(1), #801(185)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    802 190.824177     192.168.227.131       192.168.227.172       DNS      290    Standard query response 0x3bfe HTTPS functional.events.data.microsoft.com CNAME global.asimov.events.data.trafficmanager.net CNAME onedscolprdcus14.centralus.cloudapp.azure.com SOA ns1-02.azure-dns.com
+
+Frame 802: 290 bytes on wire (2320 bits), 290 bytes captured (2320 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51005, Seq: 2, Ack: 57, Len: 236
+[2 Reassembled TCP Segments (237 bytes): #797(1), #802(236)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    803 190.824492     192.168.227.172       192.168.227.131       TCP      54     51005 → 53 [FIN, ACK] Seq=57 Ack=238 Win=65280 Len=0
+
+Frame 803: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51005, Dst Port: 53, Seq: 57, Ack: 238, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    804 190.824684     192.168.227.172       192.168.227.131       TCP      54     51004 → 53 [FIN, ACK] Seq=57 Ack=187 Win=65280 Len=0
+
+Frame 804: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51004, Dst Port: 53, Seq: 57, Ack: 187, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    805 190.828829     192.168.227.131       192.168.227.172       TCP      54     53 → 51005 [FIN, ACK] Seq=238 Ack=58 Win=65536 Len=0
+
+Frame 805: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51005, Seq: 238, Ack: 58, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    806 190.828829     192.168.227.131       192.168.227.172       TCP      54     53 → 51004 [FIN, ACK] Seq=187 Ack=58 Win=65536 Len=0
+
+Frame 806: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51004, Seq: 187, Ack: 58, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    807 190.828873     192.168.227.172       192.168.227.131       TCP      54     51005 → 53 [ACK] Seq=58 Ack=239 Win=65280 Len=0
+
+Frame 807: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51005, Dst Port: 53, Seq: 58, Ack: 239, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    808 190.828927     192.168.227.172       192.168.227.131       TCP      54     51004 → 53 [ACK] Seq=58 Ack=188 Win=65280 Len=0
+
+Frame 808: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51004, Dst Port: 53, Seq: 58, Ack: 188, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    809 190.851483     192.168.227.172       192.168.227.131       TCP      54     51003 → 53 [ACK] Seq=57 Ack=2 Win=65280 Len=0
+
+Frame 809: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51003, Dst Port: 53, Seq: 57, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    810 190.855659     192.168.227.131       192.168.227.172       DNS      255    Standard query response 0x9e0d AAAA functional.events.data.microsoft.com CNAME global.asimov.events.data.trafficmanager.net CNAME onedscolprdaue01.australiaeast.cloudapp.azure.com AAAA 64:ff9b::d46:4fc8
+
+Frame 810: 255 bytes on wire (2040 bits), 255 bytes captured (2040 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51003, Seq: 2, Ack: 57, Len: 201
+[2 Reassembled TCP Segments (202 bytes): #798(1), #810(201)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    811 190.855915     192.168.227.172       192.168.227.131       TCP      54     51003 → 53 [FIN, ACK] Seq=57 Ack=203 Win=65280 Len=0
+
+Frame 811: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51003, Dst Port: 53, Seq: 57, Ack: 203, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    812 190.861174     192.168.227.131       192.168.227.172       TCP      54     53 → 51003 [FIN, ACK] Seq=203 Ack=58 Win=65536 Len=0
+
+Frame 812: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51003, Seq: 203, Ack: 58, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    815 190.861248     192.168.227.172       192.168.227.131       TCP      54     51003 → 53 [ACK] Seq=58 Ack=204 Win=65280 Len=0
+
+Frame 815: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51003, Dst Port: 53, Seq: 58, Ack: 204, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    820 190.876621     192.168.227.172       192.168.227.131       DNS      72     Standard query 0x2cbe A nephobox.com
+
+Frame 820: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+User Datagram Protocol, Src Port: 60428, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    821 190.898012     192.168.227.131       192.168.227.172       DNS      88     Standard query response 0x2cbe A nephobox.com A 98.98.225.200
+
+Frame 821: 88 bytes on wire (704 bits), 88 bytes captured (704 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+User Datagram Protocol, Src Port: 53, Dst Port: 60428
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    920 231.748873     192.168.227.172       192.168.227.131       DNS      87     Standard query 0x6011 A roaming.officeapps.live.com
+
+Frame 920: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+User Datagram Protocol, Src Port: 60428, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    921 231.749402     192.168.227.172       192.168.227.131       DNS      87     Standard query 0x014e AAAA roaming.officeapps.live.com
+
+Frame 921: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+User Datagram Protocol, Src Port: 57270, Dst Port: 53
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    924 231.796836     192.168.227.131       192.168.227.172       DNS      265    Standard query response 0x6011 A roaming.officeapps.live.com CNAME prod.roaming1.live.com.akadns.net CNAME asia.roaming1.live.com.akadns.net CNAME sea-azsc-000.roaming.officeapps.live.com CNAME osiprod-sea-buff-azsc-000.southeastasia.cloudapp.azure.com A 52.109.124.29
+
+Frame 924: 265 bytes on wire (2120 bits), 265 bytes captured (2120 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+User Datagram Protocol, Src Port: 53, Dst Port: 60428
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    927 231.800950     192.168.227.131       192.168.227.172       DNS      276    Standard query response 0x014e AAAA roaming.officeapps.live.com CNAME prod.roaming1.live.com.akadns.net CNAME asia.roaming1.live.com.akadns.net CNAME inc-azsc-000.roaming.officeapps.live.com CNAME osiprod-inc-buff-azsc-000.centralindia.cloudapp.azure.com AAAA 2603:1046:1400::7
+
+Frame 927: 276 bytes on wire (2208 bits), 276 bytes captured (2208 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+User Datagram Protocol, Src Port: 53, Dst Port: 57270
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    999 236.705113     192.168.227.172       192.168.227.131       TCP      66     51014 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 999: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51014, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1000 236.705349     192.168.227.172       192.168.227.131       TCP      66     51015 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 1000: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51015, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1001 236.705544     192.168.227.172       192.168.227.131       TCP      66     51016 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 1001: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51016, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1002 236.711396     192.168.227.131       192.168.227.172       TCP      66     53 → 51014 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 1002: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51014, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1003 236.711396     192.168.227.131       192.168.227.172       TCP      66     53 → 51015 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 1003: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51015, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1004 236.711396     192.168.227.131       192.168.227.172       TCP      66     53 → 51016 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 1004: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51016, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1005 236.711538     192.168.227.172       192.168.227.131       TCP      54     51014 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 1005: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51014, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1006 236.711581     192.168.227.172       192.168.227.131       TCP      54     51015 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 1006: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51015, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1007 236.711604     192.168.227.172       192.168.227.131       TCP      54     51016 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 1007: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51016, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1008 236.711685     192.168.227.172       192.168.227.131       TCP      56     51016 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 1009]
+
+Frame 1008: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51016, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+   1009 236.711720     192.168.227.172       192.168.227.131       DNS      87     Standard query 0x2dd3 HTTPS www.youtube.com
+
+Frame 1009: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51016, Dst Port: 53, Seq: 3, Ack: 1, Len: 33
+[2 Reassembled TCP Segments (35 bytes): #1008(2), #1009(33)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1010 236.711794     192.168.227.172       192.168.227.131       TCP      56     51015 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 1011]
+
+Frame 1010: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51015, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+   1011 236.711857     192.168.227.172       192.168.227.131       DNS      87     Standard query 0xdf66 A www.youtube.com
+
+Frame 1011: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51015, Dst Port: 53, Seq: 3, Ack: 1, Len: 33
+[2 Reassembled TCP Segments (35 bytes): #1010(2), #1011(33)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1012 236.711921     192.168.227.172       192.168.227.131       TCP      56     51014 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 1013]
+
+Frame 1012: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51014, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+   1013 236.711958     192.168.227.172       192.168.227.131       DNS      87     Standard query 0x66b4 AAAA www.youtube.com
+
+Frame 1013: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51014, Dst Port: 53, Seq: 3, Ack: 1, Len: 33
+[2 Reassembled TCP Segments (35 bytes): #1012(2), #1013(33)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1014 236.715964     192.168.227.131       192.168.227.172       TCP      54     53 → 51016 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 1014: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51016, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1015 236.715964     192.168.227.131       192.168.227.172       TCP      54     53 → 51016 [ACK] Seq=1 Ack=36 Win=65536 Len=0
+
+Frame 1015: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51016, Seq: 1, Ack: 36, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1016 236.715964     192.168.227.131       192.168.227.172       TCP      54     53 → 51015 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 1016: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51015, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1017 236.715964     192.168.227.131       192.168.227.172       TCP      54     53 → 51015 [ACK] Seq=1 Ack=36 Win=65536 Len=0
+
+Frame 1017: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51015, Seq: 1, Ack: 36, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1018 236.715964     192.168.227.131       192.168.227.172       TCP      54     53 → 51014 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 1018: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51014, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1019 236.715964     192.168.227.131       192.168.227.172       TCP      54     53 → 51014 [ACK] Seq=1 Ack=36 Win=65536 Len=0
+
+Frame 1019: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51014, Seq: 1, Ack: 36, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1020 236.892032     192.168.227.131       192.168.227.172       TCP      55     53 → 51014 [PSH, ACK] Seq=1 Ack=36 Win=65536 Len=1 [TCP PDU reassembled in 1028]
+
+Frame 1020: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51014, Seq: 1, Ack: 36, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+   1021 236.892032     192.168.227.131       192.168.227.172       TCP      55     53 → 51015 [PSH, ACK] Seq=1 Ack=36 Win=65536 Len=1 [TCP PDU reassembled in 1029]
+
+Frame 1021: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51015, Seq: 1, Ack: 36, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+   1022 236.892032     192.168.227.131       192.168.227.172       TCP      55     53 → 51016 [PSH, ACK] Seq=1 Ack=36 Win=65536 Len=1 [TCP PDU reassembled in 1030]
+
+Frame 1022: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51016, Seq: 1, Ack: 36, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+   1025 236.943251     192.168.227.172       192.168.227.131       TCP      54     51014 → 53 [ACK] Seq=36 Ack=2 Win=65280 Len=0
+
+Frame 1025: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51014, Dst Port: 53, Seq: 36, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1026 236.943327     192.168.227.172       192.168.227.131       TCP      54     51015 → 53 [ACK] Seq=36 Ack=2 Win=65280 Len=0
+
+Frame 1026: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51015, Dst Port: 53, Seq: 36, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1027 236.943343     192.168.227.172       192.168.227.131       TCP      54     51016 → 53 [ACK] Seq=36 Ack=2 Win=65280 Len=0
+
+Frame 1027: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51016, Dst Port: 53, Seq: 36, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1028 236.948355     192.168.227.131       192.168.227.172       DNS      234    Standard query response 0x66b4 AAAA www.youtube.com CNAME youtube-ui.l.google.com AAAA 2404:6800:4009:81e::200e AAAA 2404:6800:4009:80c::200e AAAA 2404:6800:4009:80d::200e AAAA 2404:6800:4009:807::200e
+
+Frame 1028: 234 bytes on wire (1872 bits), 234 bytes captured (1872 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51014, Seq: 2, Ack: 36, Len: 180
+[2 Reassembled TCP Segments (181 bytes): #1020(1), #1028(180)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1029 236.948355     192.168.227.131       192.168.227.172       DNS      378    Standard query response 0xdf66 A www.youtube.com CNAME youtube-ui.l.google.com A 142.251.223.110 A 142.250.194.14 A 142.250.194.46 A 172.217.167.206 A 172.217.27.174 A 172.217.167.238 A 216.58.196.110 A 216.58.200.206 A 142.250.77.206 A 142.250.77.238 A 142.250.182.174 A 142.250.192.174 A 142.250.192.206 A 142.250.193.78 A 142.250.206.110 A 142.250.76.78
+
+Frame 1029: 378 bytes on wire (3024 bits), 378 bytes captured (3024 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51015, Seq: 2, Ack: 36, Len: 324
+[2 Reassembled TCP Segments (325 bytes): #1021(1), #1029(324)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1030 236.948355     192.168.227.131       192.168.227.172       DNS      137    Standard query response 0x2dd3 HTTPS www.youtube.com CNAME youtube-ui.l.google.com HTTPS
+
+Frame 1030: 137 bytes on wire (1096 bits), 137 bytes captured (1096 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51016, Seq: 2, Ack: 36, Len: 83
+[2 Reassembled TCP Segments (84 bytes): #1022(1), #1030(83)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1031 236.948742     192.168.227.172       192.168.227.131       TCP      54     51014 → 53 [FIN, ACK] Seq=36 Ack=182 Win=65280 Len=0
+
+Frame 1031: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51014, Dst Port: 53, Seq: 36, Ack: 182, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1032 236.948912     192.168.227.172       192.168.227.131       TCP      54     51016 → 53 [FIN, ACK] Seq=36 Ack=85 Win=65280 Len=0
+
+Frame 1032: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51016, Dst Port: 53, Seq: 36, Ack: 85, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1033 236.949074     192.168.227.172       192.168.227.131       TCP      54     51015 → 53 [FIN, ACK] Seq=36 Ack=326 Win=65024 Len=0
+
+Frame 1033: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51015, Dst Port: 53, Seq: 36, Ack: 326, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1037 236.951715     192.168.227.131       192.168.227.172       TCP      54     53 → 51016 [FIN, ACK] Seq=85 Ack=37 Win=65536 Len=0
+
+Frame 1037: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51016, Seq: 85, Ack: 37, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1038 236.951715     192.168.227.131       192.168.227.172       TCP      54     53 → 51015 [FIN, ACK] Seq=326 Ack=37 Win=65536 Len=0
+
+Frame 1038: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51015, Seq: 326, Ack: 37, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1039 236.951715     192.168.227.131       192.168.227.172       TCP      54     53 → 51014 [FIN, ACK] Seq=182 Ack=37 Win=65536 Len=0
+
+Frame 1039: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51014, Seq: 182, Ack: 37, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1040 236.951757     192.168.227.172       192.168.227.131       TCP      54     51016 → 53 [ACK] Seq=37 Ack=86 Win=65280 Len=0
+
+Frame 1040: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51016, Dst Port: 53, Seq: 37, Ack: 86, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1041 236.951812     192.168.227.172       192.168.227.131       TCP      54     51015 → 53 [ACK] Seq=37 Ack=327 Win=65024 Len=0
+
+Frame 1041: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51015, Dst Port: 53, Seq: 37, Ack: 327, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1042 236.951842     192.168.227.172       192.168.227.131       TCP      54     51014 → 53 [ACK] Seq=37 Ack=183 Win=65280 Len=0
+
+Frame 1042: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51014, Dst Port: 53, Seq: 37, Ack: 183, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1160 272.347526     192.168.227.172       192.168.227.131       TCP      66     51023 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 1160: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51023, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1161 272.347804     192.168.227.172       192.168.227.131       TCP      66     51024 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 1161: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51024, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1162 272.348008     192.168.227.172       192.168.227.131       TCP      66     51025 → 53 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+
+Frame 1162: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51025, Dst Port: 53, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1164 272.370544     192.168.227.131       192.168.227.172       TCP      66     53 → 51023 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 1164: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51023, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1165 272.370544     192.168.227.131       192.168.227.172       TCP      66     53 → 51024 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 1165: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51024, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1166 272.370544     192.168.227.131       192.168.227.172       TCP      66     53 → 51025 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1460 SACK_PERM WS=512
+
+Frame 1166: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51025, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1167 272.370720     192.168.227.172       192.168.227.131       TCP      54     51023 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 1167: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51023, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1168 272.370768     192.168.227.172       192.168.227.131       TCP      54     51024 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 1168: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51024, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1169 272.370785     192.168.227.172       192.168.227.131       TCP      54     51025 → 53 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+
+Frame 1169: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51025, Dst Port: 53, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1170 272.370911     192.168.227.172       192.168.227.131       TCP      56     51025 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 1171]
+
+Frame 1170: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51025, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+   1171 272.370970     192.168.227.172       192.168.227.131       DNS      84     Standard query 0x8edb HTTPS www.bing.com
+
+Frame 1171: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51025, Dst Port: 53, Seq: 3, Ack: 1, Len: 30
+[2 Reassembled TCP Segments (32 bytes): #1170(2), #1171(30)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1172 272.371095     192.168.227.172       192.168.227.131       TCP      56     51024 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 1173]
+
+Frame 1172: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51024, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+   1173 272.371132     192.168.227.172       192.168.227.131       DNS      84     Standard query 0x5f08 A www.bing.com
+
+Frame 1173: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51024, Dst Port: 53, Seq: 3, Ack: 1, Len: 30
+[2 Reassembled TCP Segments (32 bytes): #1172(2), #1173(30)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1174 272.371198     192.168.227.172       192.168.227.131       TCP      56     51023 → 53 [PSH, ACK] Seq=1 Ack=1 Win=65280 Len=2 [TCP PDU reassembled in 1175]
+
+Frame 1174: 56 bytes on wire (448 bits), 56 bytes captured (448 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51023, Dst Port: 53, Seq: 1, Ack: 1, Len: 2
+
+No.     Time           Source                Destination           Protocol Length Info
+   1175 272.371235     192.168.227.172       192.168.227.131       DNS      84     Standard query 0x1ed6 AAAA www.bing.com
+
+Frame 1175: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51023, Dst Port: 53, Seq: 3, Ack: 1, Len: 30
+[2 Reassembled TCP Segments (32 bytes): #1174(2), #1175(30)]
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1176 272.377489     192.168.227.131       192.168.227.172       TCP      54     53 → 51025 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 1176: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51025, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1177 272.377489     192.168.227.131       192.168.227.172       TCP      54     53 → 51025 [ACK] Seq=1 Ack=33 Win=65536 Len=0
+
+Frame 1177: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51025, Seq: 1, Ack: 33, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1178 272.377489     192.168.227.131       192.168.227.172       TCP      54     53 → 51024 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 1178: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51024, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1179 272.377489     192.168.227.131       192.168.227.172       TCP      54     53 → 51024 [ACK] Seq=1 Ack=33 Win=65536 Len=0
+
+Frame 1179: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51024, Seq: 1, Ack: 33, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1180 272.377489     192.168.227.131       192.168.227.172       TCP      54     53 → 51023 [ACK] Seq=1 Ack=3 Win=65536 Len=0
+
+Frame 1180: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51023, Seq: 1, Ack: 3, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1181 272.377489     192.168.227.131       192.168.227.172       TCP      54     53 → 51023 [ACK] Seq=1 Ack=33 Win=65536 Len=0
+
+Frame 1181: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51023, Seq: 1, Ack: 33, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1183 272.436204     192.168.227.131       192.168.227.172       TCP      55     53 → 51024 [PSH, ACK] Seq=1 Ack=33 Win=65536 Len=1 [TCP PDU reassembled in 1191]
+
+Frame 1183: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51024, Seq: 1, Ack: 33, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+   1184 272.440711     192.168.227.131       192.168.227.172       TCP      55     53 → 51023 [PSH, ACK] Seq=1 Ack=33 Win=65536 Len=1 [TCP PDU reassembled in 1192]
+
+Frame 1184: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51023, Seq: 1, Ack: 33, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+   1185 272.440711     192.168.227.131       192.168.227.172       TCP      55     53 → 51025 [PSH, ACK] Seq=1 Ack=33 Win=65536 Len=1 [TCP PDU reassembled in 1193]
+
+Frame 1185: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51025, Seq: 1, Ack: 33, Len: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+   1188 272.485390     192.168.227.172       192.168.227.131       TCP      54     51024 → 53 [ACK] Seq=33 Ack=2 Win=65280 Len=0
+
+Frame 1188: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51024, Dst Port: 53, Seq: 33, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1189 272.485463     192.168.227.172       192.168.227.131       TCP      54     51023 → 53 [ACK] Seq=33 Ack=2 Win=65280 Len=0
+
+Frame 1189: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51023, Dst Port: 53, Seq: 33, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1190 272.485487     192.168.227.172       192.168.227.131       TCP      54     51025 → 53 [ACK] Seq=33 Ack=2 Win=65280 Len=0
+
+Frame 1190: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51025, Dst Port: 53, Seq: 33, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1191 272.490876     192.168.227.131       192.168.227.172       DNS      350    Standard query response 0x5f08 A www.bing.com CNAME www-www.bing.com.trafficmanager.net CNAME www.bing.com.edgekey.net CNAME e86303.dscx.akamaiedge.net A 49.44.183.16 A 49.44.183.48 A 49.44.183.34 A 49.44.183.43 A 49.44.183.26 A 49.44.183.17 A 49.44.183.33 A 49.44.183.27 A 49.44.183.35
+
+Frame 1191: 350 bytes on wire (2800 bits), 350 bytes captured (2800 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51024, Seq: 2, Ack: 33, Len: 296
+[2 Reassembled TCP Segments (297 bytes): #1183(1), #1191(296)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1192 272.490876     192.168.227.131       192.168.227.172       DNS      346    Standard query response 0x1ed6 AAAA www.bing.com CNAME www-www.bing.com.trafficmanager.net CNAME www.bing.com.edgekey.net CNAME e86303.dscx.akamaiedge.net AAAA 2405:200:160b:1731::312c:b738 AAAA 2405:200:160b:1731::312c:b730 AAAA 2405:200:160b:1731::312c:b729 AAAA 2405:200:160b:1731::312c:b72b AAAA 2405:200:160b:1731::312c:b733
+
+Frame 1192: 346 bytes on wire (2768 bits), 346 bytes captured (2768 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51023, Seq: 2, Ack: 33, Len: 292
+[2 Reassembled TCP Segments (293 bytes): #1184(1), #1192(292)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1193 272.490876     192.168.227.131       192.168.227.172       DNS      267    Standard query response 0x8edb HTTPS www.bing.com CNAME www-www.bing.com.trafficmanager.net CNAME www.bing.com.edgekey.net CNAME e86303.dscx.akamaiedge.net SOA n0dscx.akamaiedge.net
+
+Frame 1193: 267 bytes on wire (2136 bits), 267 bytes captured (2136 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51025, Seq: 2, Ack: 33, Len: 213
+[2 Reassembled TCP Segments (214 bytes): #1185(1), #1193(213)]
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   1194 272.491335     192.168.227.172       192.168.227.131       TCP      54     51025 → 53 [FIN, ACK] Seq=33 Ack=215 Win=65280 Len=0
+
+Frame 1194: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51025, Dst Port: 53, Seq: 33, Ack: 215, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1195 272.491545     192.168.227.172       192.168.227.131       TCP      54     51023 → 53 [FIN, ACK] Seq=33 Ack=294 Win=65024 Len=0
+
+Frame 1195: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51023, Dst Port: 53, Seq: 33, Ack: 294, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1196 272.491720     192.168.227.172       192.168.227.131       TCP      54     51024 → 53 [FIN, ACK] Seq=33 Ack=298 Win=65024 Len=0
+
+Frame 1196: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51024, Dst Port: 53, Seq: 33, Ack: 298, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1199 272.497584     192.168.227.131       192.168.227.172       TCP      54     53 → 51025 [FIN, ACK] Seq=215 Ack=34 Win=65536 Len=0
+
+Frame 1199: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51025, Seq: 215, Ack: 34, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1200 272.497584     192.168.227.131       192.168.227.172       TCP      54     53 → 51023 [FIN, ACK] Seq=294 Ack=34 Win=65536 Len=0
+
+Frame 1200: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51023, Seq: 294, Ack: 34, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1201 272.497584     192.168.227.131       192.168.227.172       TCP      54     53 → 51024 [FIN, ACK] Seq=298 Ack=34 Win=65536 Len=0
+
+Frame 1201: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15), Dst: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0)
+Internet Protocol Version 4, Src: 192.168.227.131, Dst: 192.168.227.172
+Transmission Control Protocol, Src Port: 53, Dst Port: 51024, Seq: 298, Ack: 34, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1202 272.497678     192.168.227.172       192.168.227.131       TCP      54     51025 → 53 [ACK] Seq=34 Ack=216 Win=65280 Len=0
+
+Frame 1202: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51025, Dst Port: 53, Seq: 34, Ack: 216, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1203 272.497761     192.168.227.172       192.168.227.131       TCP      54     51023 → 53 [ACK] Seq=34 Ack=295 Win=65024 Len=0
+
+Frame 1203: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51023, Dst Port: 53, Seq: 34, Ack: 295, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+   1204 272.497799     192.168.227.172       192.168.227.131       TCP      54     51024 → 53 [ACK] Seq=34 Ack=299 Win=65024 Len=0
+
+Frame 1204: 54 bytes on wire (432 bits), 54 bytes captured (432 bits) on interface \Device\NPF_{136A70FC-082C-4FD5-8687-5C5BEB3CC334}, id 0
+Ethernet II, Src: AzureWaveTec_3a:02:c0 (10:68:38:3a:02:c0), Dst: fa:15:5f:32:fb:15 (fa:15:5f:32:fb:15)
+Internet Protocol Version 4, Src: 192.168.227.172, Dst: 192.168.227.131
+Transmission Control Protocol, Src Port: 51024, Dst Port: 53, Seq: 34, Ack: 299, Len: 0
